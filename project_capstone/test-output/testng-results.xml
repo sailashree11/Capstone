@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8531" started-at="2023-03-29T12:10:46Z" finished-at="2023-03-29T12:10:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8531" started-at="2023-03-29T12:10:46Z" finished-at="2023-03-29T12:10:55Z">
+      <class name="com.test.TestNg_class">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.TestNg_class@61f8bee4]" name="beforeClass" is-config="true" duration-ms="19" started-at="2023-03-29T12:10:46Z" finished-at="2023-03-29T12:10:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:com.test.TestNg_class@61f8bee4]" name="Test" duration-ms="3248" started-at="2023-03-29T12:10:46Z" finished-at="2023-03-29T12:10:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.test.TestNg_class@61f8bee4]" name="Test1" duration-ms="2786" started-at="2023-03-29T12:10:49Z" finished-at="2023-03-29T12:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.test.TestNg_class@61f8bee4]" name="Test2" duration-ms="2449" started-at="2023-03-29T12:10:52Z" finished-at="2023-03-29T12:10:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.TestNg_class@61f8bee4]" name="afterClass" is-config="true" duration-ms="0" started-at="2023-03-29T12:10:55Z" finished-at="2023-03-29T12:10:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.test.TestNg_class -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
